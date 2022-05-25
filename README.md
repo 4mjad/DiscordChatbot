@@ -12,7 +12,7 @@ nest-asyncio = "^1.5.5"
 
 e.g pip install discord
 
-Attached is a PDF report, python files coded with VSCode and a ipynb file used on Google Colab.
+Attached are python files coded with VSCode and a ipynb file used on Google Colab.
 
 The bot should already be online if you join the server so you can instantly start chatting with it.
 Discord Server link:
